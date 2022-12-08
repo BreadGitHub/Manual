@@ -1,0 +1,6 @@
+https://ru.wikipedia.org/wiki/Парадигма_программирования
+https://ru.wikipedia.org/wiki/Структурное_программирование
+https://ru.wikipedia.org/wiki/Декларативное_программирование
+https://ru.wikipedia.org/wiki/Логическое_программирование
+https://ru.wikipedia.org/wiki/Объектно-ориентированное_программирование
+https://ru.wikipedia.org/wiki/Функциональное_программирование
